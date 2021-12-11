@@ -1,0 +1,11 @@
+state={
+	id=18
+	name="STATE_18"
+	provinces={
+		21098 21099 21113 21159 21160 21161 21179 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.0 
+	state_category = large_town
+}

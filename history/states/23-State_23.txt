@@ -1,0 +1,11 @@
+state={
+	id=23
+	name="STATE_23"
+	provinces={
+		404 1980 22363 22366 22398 22431 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.0 
+	state_category = large_town
+}
